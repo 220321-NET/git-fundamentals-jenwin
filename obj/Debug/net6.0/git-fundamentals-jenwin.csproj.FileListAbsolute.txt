@@ -1,0 +1,15 @@
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\bin\Debug\net6.0\git-fundamentals-jenwin.exe
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\bin\Debug\net6.0\git-fundamentals-jenwin.deps.json
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\bin\Debug\net6.0\git-fundamentals-jenwin.runtimeconfig.json
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\bin\Debug\net6.0\git-fundamentals-jenwin.dll
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\bin\Debug\net6.0\git-fundamentals-jenwin.pdb
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.csproj.AssemblyReference.cache
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.AssemblyInfoInputs.cache
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.AssemblyInfo.cs
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.csproj.CoreCompileInputs.cache
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.dll
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\refint\git-fundamentals-jenwin.dll
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.pdb
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\git-fundamentals-jenwin.genruntimeconfig.cache
+C:\Users\x-bab\Desktop\revature-projects\git-fundamentals-jenwin\obj\Debug\net6.0\ref\git-fundamentals-jenwin.dll
